@@ -10,7 +10,9 @@ The purpose of this analysis to see the affect that NaN's have on a dataset. All
 As you can see in the photos above, the district summary was only slightly affected by the replacement of scores. 
 
 ### How was the school summary affected?
-<img width="1216" alt="Screen Shot 2022-03-20 at 6 19 34 PM" src="https://user-images.githubusercontent.com/100374924/159188424-61073f6c-6dbd-46a4-954e-7bc608eec91a.png"><img width="592" alt="Screen Shot 2022-03-20 at 6 23 43 PM" src="https://user-images.githubusercontent.com/100374924/159188584-f449e69c-160c-43b6-9d28-83205936cc4c.png">
+<img width="1216" alt="Screen Shot 2022-03-20 at 6 19 34 PM" src="https://user-images.githubusercontent.com/100374924/159188424-61073f6c-6dbd-46a4-954e-7bc608eec91a.png">
+
+<img width="595" alt="Screen Shot 2022-03-20 at 6 26 10 PM" src="https://user-images.githubusercontent.com/100374924/159188673-5ba04fef-6d35-4d74-9f20-02a4065c5944.png">
 
 
 The percentage of students who passed both math and reading at Thomas Highschool dropped dramatically after the scores replacement. 
